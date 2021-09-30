@@ -1,0 +1,28 @@
+Time dependent Schrodinger equation and dynamical evolution of a quantum state;
+Properties of Wave Function.
+Interpretation of Wave Function Probability density and probability current density in three
+dimensions;
+Conditions for Physical Acceptability of Wave Functions.
+Normalization.
+Linearity and Superposition Principles.
+Eigenvalues and Eigen functions. Position, momentum and Energy operators; commutator of position and momentum operators;
+Expectation values of position and momentum. Wave Function of a Free Particle. (6 Lectures)
+Time independent Schrodinger equation: Hamiltonian, stationary states and energy eigenvalues; expansion of an arbitrary wave
+function as a linear combination of energy Eigen functions; General solution of the time dependent Schrodinger equation in
+terms of linear combinations of stationary states; Application to spread of Gaussian wave-packet for a free particle in one
+dimension; wave packets, Fourier transforms and momentum space wave function; Position-momentum uncertainty principle.
+(10 Lectures)
+General discussion of bound states in an arbitrary potential: continuity of wave function, boundary condition and emergence of
+discrete energy levels; application to one-dimensional problem-square well potential; Quantum mechanics of simple harmonic
+oscillator-energy levels and energy Eigen functions using Frobenius method; Hermite polynomials; ground state, zero point
+energy & uncertainty principle. (12 Lectures)
+Quantum theory of hydrogen-like atoms: time independent Schrodinger equation in spherical polar coordinates; separation of
+variables for second order partial differential equation; angular momentum operator & quantum numbers; Radial wavefunctions
+from Frobenius method; shapes of the probability densities for ground & first excited states; Orbital angular momentum
+quantum numbers l and m; s, p, d,.. shells. (10 Lectures)
+Atomic Physics:
+Atoms in External Magnetic Fields: Normal and Anomalous Zeeman Effect. Paschen Back and Stark Effect (Qualitative
+Discussion only). (4 Lectures)
+Many electron atoms: Pauli’s Exclusion Principle. Symmetric & Antisymmetric Wave Functions. Fine structure. Spin orbit
+coupling. Spectral Notations for Atomic States. Total angular momentum. Vector Model. Spin-orbit coupling in atoms- L-S and
+J-J couplings. Hund’s Rule. Term symbols. Spectra of Hydrogen and Alkali Atoms (Na etc.)
